@@ -9,7 +9,7 @@ const ProjectCardData = [
         title: "E-commerce Website",
         text: "A basic e-commerce website that fetches product images, names, and prices from a dummy API and displays them in a responsive layout.",
         view: ecom,
-        code: "https://github.com/abdullahabid1103/Ecommerce-App"              
+        code: "https://ecommerce-app-nine-wheat.vercel.app/"              
     },
 
     {
@@ -17,7 +17,7 @@ const ProjectCardData = [
         title: "To-Do App",
         text: "A simple to-do application that lets users add, view, and manage tasks with a clean and minimal interface.",
         view: todo,
-        code: "https://github.com/abdullahabid1103/To-Do-App"             
+        code: "https://todo-app-sigma-eight-11.vercel.app/"             
     },
 
     {
@@ -25,7 +25,7 @@ const ProjectCardData = [
         title: "Weather Application",
         text: "A weather application that fetches and displays the current temperature and conditions of any searched city using a weather API.",
         view: weather,
-        code: "https://github.com/abdullahabid1103/Weather-App"                
+        code: "https://weather-app-gamma-nine-94.vercel.app/"                
     },
 
     {
