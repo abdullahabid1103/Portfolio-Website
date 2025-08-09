@@ -2,6 +2,7 @@ import ecom from "../assets/ecom.png"
 import todo from "../assets/Todo.png"
 import weather from "../assets/weather.png"
 import grocery from "../assets/grocery.png"
+import movies from "../assets/movies.png"
 
 const ProjectCardData = [
     {
@@ -34,6 +35,14 @@ const ProjectCardData = [
         text: "A simple and efficient tool to manage your shopping needs. You can quickly add new grocery items, search through your list to find specific products, and remove items once they’re no longer needed..",
         view: grocery,
         code: "https://github.com/abdullahabid1103/Grocery-list-app"                
+    },
+
+    {
+        imgsrc: movies,
+        title: "Movie Explorer App",
+        text: "A simple Movie Explorer App that displays movies from a local Server",
+        view: movies,
+        code: "https://movie-explorer-snowy-one.vercel.app/"                
     }
 ]
 
