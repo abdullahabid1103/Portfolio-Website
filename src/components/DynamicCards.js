@@ -11,7 +11,7 @@ const DynamicCards = (props) => {
                 <p>{props.text}</p>
                 <div className="pro-btns">
                     <a href={props.view} target="_blank" rel="noopener noreferrer" className="btn">View</a>
-                    <a href= {props.code}  target="_blank"  rel="noopener noreferrer"  className="btn">Code</a>                
+                    <a href= {props.code}  target="_blank"  rel="noopener noreferrer"  className="btn">Visit</a>                
                 </div>
               </div>
             </div>
