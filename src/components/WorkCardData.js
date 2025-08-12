@@ -3,6 +3,7 @@ import todo from "../assets/Todo.png"
 import weather from "../assets/weather.png"
 import grocery from "../assets/grocery.png"
 import movies from "../assets/movies.png"
+import crypto from "../assets/crypto.png"
 
 const ProjectCardData = [
     {
@@ -43,6 +44,14 @@ const ProjectCardData = [
         text: "A simple Movie Explorer App that displays movies from a local Server",
         view: movies,
         code: "https://movie-explorer-snowy-one.vercel.app/"                
+    },
+
+    {
+        imgsrc: crypto,
+        title: "Crypto Dashboard",
+        text: "A Crypto Dashboard that fetches real time data from an CoinGecko API and displays key details for different cryptocurrencies",
+        view: crypto,
+        code: "https://crypto-dashboard-psi-umber.vercel.app/"                
     }
 ]
 
