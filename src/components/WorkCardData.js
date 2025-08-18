@@ -31,14 +31,6 @@ const ProjectCardData = [
     },
 
     {
-        imgsrc: grocery,
-        title: "Grocery List App",
-        text: "A simple and efficient tool to manage your shopping needs. You can quickly add new grocery items, search through your list to find specific products, and remove items once they’re no longer needed..",
-        view: grocery,
-        code: ""                
-    },
-
-    {
         imgsrc: movies,
         title: "Movie Explorer App",
         text: "A simple Movie Explorer App that displays movies from a local Server",
